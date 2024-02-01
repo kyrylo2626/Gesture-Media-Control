@@ -1,0 +1,1 @@
+{"WMPLAYER": true, "IMAGE_OUTPUT": false, "BG_IMAGE_OUTPUT": false, "CAMERA_INDEX": 0, "KERAS_MODEL": "Service/Model/NeuralNetwork/GestureModel", "PLAYER": "C:/Program Files/Windows Media Player/wmplayer.exe", "DEFAULT_PLAYER": "C:/Program Files/Windows Media Player/wmplayer.exe"}
